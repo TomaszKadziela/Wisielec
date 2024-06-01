@@ -1,4 +1,4 @@
-# Tomasz Kądziela 50018
+# Tomasz Kądziela // nr Albumu 50018
 
 2. Gra w Wisielca
 
