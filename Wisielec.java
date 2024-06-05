@@ -22,7 +22,7 @@ public class Wisielec {
         while (zagracPonownie) {
             System.out.println("Wybierz poziom trudności: 1. Łatwy 2. Średni 3. Trudny");
             int trudnosc = scanner.nextInt();
-            scanner.nextLine(); // wczytaj nową linię
+            scanner.nextLine();
             String slowo = losoweSlowo(trudnosc);
             graj(slowo);
             System.out.println("Czy chcesz zagrać ponownie? (tak/nie)");
